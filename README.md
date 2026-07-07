@@ -19,7 +19,7 @@ Trabajo principalmente con **GitLab**, pero mantengo este perfil de **GitHub** c
 
 Soy estudiante de **Sistemas Computacionales** con enfoque en desarrollo de software, automatización, administración de bases de datos y control de versiones. Me interesa construir soluciones funcionales, mantenibles y orientadas a buenas prácticas de ingeniería.
 
-Mi trabajo se concentra principalmente en **GitLab**, donde organizo proyectos mediante flujos estructurados con ramas `main`, `qa`, `dev` y ramas auxiliares como `feature/*`, `bugfix/*`, `hotfix/*` y `release/*`.
+Mi trabajo se concentra principalmente en **GitLab**, donde organizo proyectos mediante flujos estructurados con ramas `main`, `qa`, `dev` y ramas auxiliares.
 
 También desarrollo soluciones orientadas a automatización, integración de herramientas, documentación técnica, bases de datos **PostgreSQL** y flujos de trabajo colaborativos.
 
