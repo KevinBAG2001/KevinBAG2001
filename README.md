@@ -99,16 +99,11 @@ Gestión rigurosa de repositorios para asegurar la calidad del código, separand
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KevinBAG2001&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinBAG2001&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinBAG2001&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinBAG2001/KevinBAG2001/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinBAG2001/KevinBAG2001/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/KevinBAG2001/KevinBAG2001/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/KevinBAG2001/KevinBAG2001/snake-output/snake.svg" alt="Snake animation" />
 
 </div>
