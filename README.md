@@ -8,8 +8,8 @@ Trabajo principalmente con **GitLab**, pero mantengo este perfil de **GitHub** c
 
 [![GitLab](https://img.shields.io/badge/GitLab-Perfil_principal-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/KevinBAG2001)
 [![GitHub](https://img.shields.io/badge/GitHub-KevinBAG2001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KevinBAG2001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agregar_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Contacto-Agregar_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@ejemplo.com)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agregar_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Contacto-Agregar_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@ejemplo.com)-->
 
 </div>
 
