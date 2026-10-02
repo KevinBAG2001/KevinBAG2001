@@ -1,12 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:FC6D26,100:0f172a&height=180&section=header&text=Engineering+%26+DevOps&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Kevin+Bryan+Austria+Galvan&descAlignY=62&descSize=16&descAlign=50" alt="Engineering and DevOps — Kevin Bryan Austria Galvan" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f172a,100:FC6D26&height=210&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=How%20I%20work%20%C2%B7%20How%20I%20ship&descSize=18&descAlignY=60&descAlign=50&descColor=e2e8f0" alt="Kevin Bryan Austria Galvan — Engineering and DevOps" width="100%" />
 
-**How I work · How I ship**
+**Engineering and DevOps hub** — delivery, pipelines, automation
+
+<br />
+
+[![GitHub](https://img.shields.io/badge/GitHub-What_I_build-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KevinBAG2001)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kevinbag2001.github.io-0d9488?style=flat-square&logo=googlechrome&logoColor=white)](https://kevinbag2001.github.io)
+[![Email](https://img.shields.io/badge/Email-kevinbryan__austria@outlook.com-64748b?style=flat-square&logo=gmail&logoColor=white)](mailto:kevinbryan_austria@outlook.com)
 
 </div>
 
-Full-Stack Developer focused on **delivery**: branch strategy, merge requests, automated pipelines, and production operations. This profile documents **engineering and DevOps practice**—not a duplicate of my [GitHub profile](https://github.com/KevinBAG2001) (what I build) or [portfolio](https://kevinbag2001.github.io) (who I am).
+Full-Stack Developer focused on **how software reaches production**: branch strategy, merge requests, **GitLab CI/CD**, and operational discipline. Complements my [GitHub profile](https://github.com/KevinBAG2001) (what I build) and [portfolio](https://kevinbag2001.github.io).
+
+---
+
+<div align="center">
+
+### Impact
+
+<table>
+<tr>
+<td align="center" width="25%"><br /><strong style="font-size:2em">50+</strong><br /><sub>production deploys</sub><br /><br /></td>
+<td align="center" width="25%"><br /><strong style="font-size:2em">250+</strong><br /><sub>merge requests</sub><br /><br /></td>
+<td align="center" width="25%"><br /><strong style="font-size:2em">dev → qa → main</strong><br /><sub>promotion model</sub><br /><br /></td>
+<td align="center" width="25%"><br /><strong style="font-size:2em">CI/CD</strong><br /><sub>automated pipelines</sub><br /><br /></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -14,7 +37,7 @@ Full-Stack Developer focused on **delivery**: branch strategy, merge requests, a
 
 ```mermaid
 gitGraph
-  commit id: "feature work"
+  commit id: "feature"
   branch dev
   checkout dev
   commit id: "integrate"
@@ -26,24 +49,24 @@ gitGraph
   commit id: "production"
 ```
 
-- **GitFlow-style branches:** `dev` → `qa` → `main` for integration, validation, and production.
-- **Merge requests** as the default path to production-quality code (including **250+ MRs** on a long-running public-sector document platform).
-- **GitLab CI/CD** pipelines for build, test, and deploy stages across environments.
-- **50+ production deployments** through automated pipelines on the `dev` / `qa` / `main` model.
+- **GitFlow-style branches:** `dev` → `qa` → `main`
+- **Merge requests** as the default quality gate (**250+ MRs** on a long-running document platform)
+- **GitLab CI/CD** for build, test, and deploy across environments
+- **50+ production deployments** on the `dev` / `qa` / `main` model
 
 ---
 
-### Automation & tooling
+### Automation and tooling
 
-**GitLab activity visualization (profile bot)** — scheduled job on **GitLab CI** that keeps the profile contribution graphic fresh:
+**GitLab activity visualization (profile bot)** — scheduled **GitLab CI** job:
 
 | Layer | Tools |
 | ----- | ----- |
-| API & data | **Python** · **python-gitlab** (fetch contribution / activity context) |
-| Rendering | **svgwrite** (vector graph) · **Pillow** (image post-processing) |
-| Delivery | Pipeline artifact → commit to profile repository |
+| API | **Python** · **python-gitlab** |
+| Render | **svgwrite** · **Pillow** |
+| Ship | Pipeline artifact → profile repository commit |
 
-Purpose: reproducible, maintainable automation instead of manual SVG updates—same mindset applied to application **CI/CD** and operational scripts.
+Reproducible automation—the same mindset as application **CI/CD** and runbooks.
 
 ---
 
@@ -51,38 +74,30 @@ Purpose: reproducible, maintainable automation instead of manual SVG updates—s
 
 | Area | Practice |
 | ---- | -------- |
-| **Testing** | Automated tests in application repos; pipeline gates before promote to `qa` / `main`. |
-| **Security** | Role-based access, sensitive-session controls (OTP / single-session patterns in production systems), validated-document immutability, path and origin checks in local tooling (e.g. sandboxed Git clients). |
-| **Documentation** | Technical docs, merge request descriptions, and operational runbooks for deployments. |
-| **Production** | Environment promotion, rollback awareness, monitoring day-to-day availability of institutional systems. |
+| **Testing** | Pipeline gates before `qa` / `main` promotion |
+| **Security** | RBAC, OTP / single-session patterns, validated-document immutability |
+| **Documentation** | MR descriptions, technical docs, deployment notes |
+| **Production** | Environment promotion, availability of institutional systems |
 
 ---
 
 ### Selected engineering work
 
-*Professional systems — anonymized; framed around **pipelines, deployments, and integrations**.*
-
-| System | Engineering highlights | Status |
-| ------ | ------------------------ | ------ |
-| **Document Management & Operational Tracking System** | **GitLab CI/CD** end-to-end; **Alfresco** + **Nextcloud** integrations; merge-request-driven evolution; PDF/Excel report jobs; production promotion via `dev` / `qa` / `main`. | `PRODUCTION` |
-| **Personnel Operations Platform** | Greenfield **Laravel** platform; PostgreSQL migrations and reporting; iterative releases to operational users. | `PRODUCTION` / `IN DEVELOPMENT` |
-| **Digital Property-Tax Collection System** | Municipal deployment on **.NET** / **C#** / **PHP** / **SQL Server** stack; barcode validation flows for external payment channel integration. | `PRODUCTION` |
-| **[Abyssan](https://github.com/KevinBAG2001/Abyssan)** (open source) | **Docker Compose** environments; layered API; WebSocket notifications; security-focused Git operations. | `OPEN SOURCE` |
-
----
-
-### Core delivery stack
-
-**DevOps:** Git · GitLab · GitLab CI/CD · Docker · GitHub (mirror / OSS)  
-**Backend / data:** Laravel · PHP · .NET · C# · PostgreSQL · SQL Server  
-**Automation:** Python (GitLab API, SVG/image generation, operational scripts)
+| System | Delivery focus | Status |
+| ------ | -------------- | ------ |
+| **Document Management & Operational Tracking System** | **GitLab CI/CD** · **Alfresco** / **Nextcloud** · MR-driven releases · PDF/Excel jobs | `PRODUCTION` |
+| **Personnel Operations Platform** | Greenfield **Laravel** · PostgreSQL · iterative production releases | `PRODUCTION` / `IN DEVELOPMENT` |
+| **Digital Property-Tax Collection System** | **.NET** / **C#** / **PHP** / **SQL Server** · barcode flows · **external payment channel** | `PRODUCTION` |
+| **[Abyssan](https://github.com/KevinBAG2001/Abyssan)** | **Docker Compose** · layered API · WebSocket · sandboxed Git ops | `OPEN SOURCE` |
 
 ---
 
 <div align="center">
 
-[![GitHub — What I build](https://img.shields.io/badge/GitHub-What_I_build-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KevinBAG2001)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kevinbag2001.github.io-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kevinbag2001.github.io)
-[![Email](https://img.shields.io/badge/Email-kevinbryan__austria@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbryan_austria@outlook.com)
+<img src="https://skillicons.dev/icons?i=gitlab,docker,git,python,postgres,laravel&theme=dark&perline=8" height="52" alt="Delivery stack icons" />
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC6D26,100:020617&height=80&section=footer&text=GitLab%20CI%2FCD%20%C2%B7%20Ship%20with%20confidence&fontSize=15&fontColor=e2e8f0&animation=twinkling" alt="" width="100%" />
 
 </div>

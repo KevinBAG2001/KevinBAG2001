@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0d9488,100:134e4a&height=200&section=header&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descSize=18&descAlign=50" alt="Kevin Bryan Austria Galvan — Full-Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f172a,100:0d9488&height=220&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=38&fontColor=ffffff&stroke=ffffff&strokeWidth=0.5&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Engineering%20%C2%B7%20DevOps%20%C2%B7%20Data&descSize=17&descAlignY=62&descAlign=50&descColor=e2e8f0" alt="Kevin Bryan Austria Galvan" width="100%" />
 
-<p><strong>Building real-world software from idea to production.</strong></p>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+real-world+software+from+idea+to+production;Laravel+%C2%B7+React+%C2%B7+.NET+%C2%B7+PostgreSQL;CI%2FCD+pipelines+%C2%B7+50%2B+production+deploys&font=Fira+Code&center=true&width=620&height=52&pause=1400&color=2dd4bf&size=20&vCenter=true&repeat=false" alt="Typing headline" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+%C2%B7+DevOps+%C2%B7+Data&font=Fira+Code&center=true&width=480&height=40&pause=2000&color=5eead4&size=18&vCenter=true" alt="Software Engineering · DevOps · Data" />
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kevinbag2001.github.io-0d9488?style=flat-square&logo=googlechrome&logoColor=white)](https://kevinbag2001.github.io)
+[![GitLab](https://img.shields.io/badge/GitLab-KevinBAG2001-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/KevinBAG2001)
+[![Email](https://img.shields.io/badge/Email-kevinbryan__austria@outlook.com-64748b?style=flat-square&logo=gmail&logoColor=white)](mailto:kevinbryan_austria@outlook.com)
 
 </div>
 
@@ -12,40 +16,63 @@ I build end-to-end software, connecting development, data, and delivery to take 
 
 ---
 
-### Featured projects
+### Featured · Abyssan
 
-#### [Abyssan](https://github.com/KevinBAG2001/Abyssan) · `OPEN SOURCE`
+<table>
+<tr>
+<td width="58%" valign="top">
 
-Self-hosted, local Git client (pnpm monorepo · React 19 · TypeScript · Node/Express · Docker Compose).
+**[Abyssan](https://github.com/KevinBAG2001/Abyssan)** · `OPEN SOURCE`
+
+Self-hosted, local Git client — pnpm monorepo · React 19 · TypeScript · Node/Express · Docker Compose.
 
 - Real-time repo change notifications via **WebSocket** and filesystem watching.
 - **Layered architecture** (HTTP → use cases → Git adapter) with **route sandboxing** under a single projects root.
 - **Vitest** coverage and **Docker Compose** for repeatable API + SPA environments.
 
-#### Professional work
+</td>
+<td width="42%" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinBAG2001&repo=Abyssan&theme=tokyonight&hide_border=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&bg_color=0d1117" alt="Abyssan repository card" />
+
+</td>
+</tr>
+</table>
+
+### Professional work
 
 | System | Focus | Status |
 | ------ | ----- | ------ |
 | **Document Management & Operational Tracking System** | Public-sector document lifecycle: **Alfresco** + **Nextcloud**, validation rules (locked after approval), physical-signature → signed PDF closure, role/area permissions, OTP + single-session controls for sensitive roles, daily **PDF/Excel** reporting, **GitLab CI/CD** (250+ merge requests in continuous evolution). | `PRODUCTION` |
 | **Personnel Operations Platform** | Built from scratch: daily capture, roles, employee records with auto-capture, goals from Excel, shift states, grouped history, vacations, training, incidents, productivity **PDF** outputs. | `PRODUCTION` / `IN DEVELOPMENT` |
-| **Digital Property-Tax Collection System** | Municipal property-tax workflow: **barcode generation and validation** for payment through an **external collection channel** (convenience retail). Stack aligned to delivery context: **.NET**, **C#**, **PHP**, **JavaScript**, **SQL Server**. | `PRODUCTION` |
+| **Digital Property-Tax Collection System** | Municipal property-tax workflow: **barcode generation and validation** for payment through an **external payment channel**. Stack: **.NET**, **C#**, **PHP**, **JavaScript**, **SQL Server**. | `PRODUCTION` |
 
 ---
 
 ### Core stack
 
-| Frontend | Backend | Data | DevOps |
-| -------- | ------- | ---- | ------ |
-| React · TypeScript · JavaScript | PHP · Laravel · C# · .NET | PostgreSQL · SQL Server · SQL | Git · GitHub · GitLab · GitLab CI/CD · **Docker** |
+<table>
+<tr>
+<th align="left">Frontend</th>
+<th align="left">Backend</th>
+<th align="left">Data</th>
+<th align="left">DevOps</th>
+</tr>
+<tr>
+<td>React · TypeScript · JavaScript</td>
+<td>PHP · Laravel · C# · .NET</td>
+<td>PostgreSQL · SQL Server · SQL</td>
+<td>Git · GitHub · GitLab · GitLab CI/CD · Docker</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=react,ts,js&theme=dark&perline=6" height="48" alt="Frontend icons" /></td>
+<td><img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet&theme=dark&perline=6" height="48" alt="Backend icons" /></td>
+<td><img src="https://skillicons.dev/icons?i=postgres&theme=dark&perline=4" height="48" alt="Data icons" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=dark&perline=6" height="48" alt="DevOps icons" /></td>
+</tr>
+</table>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,laravel,dotnet,postgres,docker,gitlab" height="32" alt="Core stack icons" />
-
-</div>
-
-*Supporting:* Python · Flutter · Dart · Blade · Tailwind CSS · Bootstrap · VB.NET  
-*Expanding into:* Analytics · Business Intelligence · Artificial Intelligence
+<sub>Supporting: Python · Flutter · Dart · Blade · Tailwind CSS · Bootstrap · VB.NET · Expanding: Analytics · BI · AI</sub>
 
 ---
 
@@ -53,31 +80,42 @@ Self-hosted, local Git client (pnpm monorepo · React 19 · TypeScript · Node/E
 
 **Build** → **Test** → **Automate** → **Deploy** → **Improve**
 
-Architecture and implementation with clear boundaries · relational data design · **REST APIs** · automated pipelines · production operations and iteration.
+Architecture with clear boundaries · relational data design · **REST APIs** · automated pipelines · production operations.
 
 ---
 
+<div align="center">
+
 ### Impact
 
-- **50+** production deployments via **GitLab CI/CD** (`dev` / `qa` / `main`)
-- Reporting workflow reduced from **15 hours** to **5 minutes**
-- HR platform serving **100+ employees** (Laravel 11 · PHP · PostgreSQL)
-- Led **3** internal municipal systems; coordinated teams of up to **4** developers
+<table>
+<tr>
+<td align="center" width="25%"><br /><strong style="font-size:2em">50+</strong><br /><sub>production deploys</sub><br /><br /></td>
+<td align="center" width="25%"><br /><strong style="font-size:2em">15 h → 5 min</strong><br /><sub>reporting workflow</sub><br /><br /></td>
+<td align="center" width="25%"><br /><strong style="font-size:2em">100+</strong><br /><sub>employees served (HR platform)</sub><br /><br /></td>
+<td align="center" width="25%"><br /><strong style="font-size:2em">250+</strong><br /><sub>merge requests (document platform)</sub><br /><br /></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ### Currently
 
-- **Master's in Business Analytics & Intelligence** — in progress (complementing software engineering with a data-driven lens)
+- **Master's in Business Analytics & Intelligence** — in progress
 - **Microsoft AI Specialization (150 h)** — completed Jan–Jul 2026, Centro Público de Formación en IA
 
 ---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kevinbag2001.github.io-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kevinbag2001.github.io)
-[![GitLab](https://img.shields.io/badge/GitLab-KevinBAG2001-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/KevinBAG2001)
-[![Email](https://img.shields.io/badge/Email-kevinbryan__austria@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbryan_austria@outlook.com)
+<img src="https://github-readme-stats.vercel.app/api?username=KevinBAG2001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&title_color=2dd4bf&icon_color=2dd4bf" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinBAG2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=2dd4bf" height="165" alt="Top languages" />
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:020617&height=90&section=footer&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=16&fontColor=e2e8f0&animation=twinkling" alt="" width="100%" />
 
 </div>
 
@@ -88,13 +126,11 @@ Architecture and implementation with clear boundaries · relational data design 
 
 **Construyo software para problemas reales, desde la idea hasta producción.**
 
-Desarrollo software de extremo a extremo, conectando desarrollo, datos y entrega. Full-Stack Developer con experiencia en ciclo completo: análisis, implementación, integración, despliegue y evolución en producción.
+Desarrollo software de extremo a extremo, conectando desarrollo, datos y entrega.
 
-**Proyectos:** [Abyssan](https://github.com/KevinBAG2001/Abyssan) (open source) · sistemas profesionales anonimizados arriba (gestión documental, operación de personal, predial municipal).
+**Proyectos:** [Abyssan](https://github.com/KevinBAG2001/Abyssan) (open source) · sistemas profesionales anonimizados arriba.
 
-**Stack principal:** React · TypeScript · Laravel · .NET · PostgreSQL · SQL Server · GitLab CI/CD · Docker.
-
-**Impacto:** 50+ despliegues a producción · reportes de 15 h a 5 min · RRHH 100+ empleados · 3 sistemas municipales · coordinación de hasta 4 devs.
+**Impacto:** 50+ despliegues · reportes 15 h → 5 min · 100+ empleados · 250+ merge requests.
 
 **Actualmente:** Maestría en Analítica e Inteligencia de Negocios (en curso) · Especialización Microsoft IA 150 h (completada, 2026).
 
