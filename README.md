@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=020617&height=215&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Engineering%20%C2%B7%20DevOps%20%C2%B7%20Data&descSize=16&descAlignY=58&descAlign=50&descColor=cbd5e1&stroke=0d9488&strokeWidth=1.2" alt="Kevin Bryan Austria Galvan" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=230&section=header&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Engineering%20%C2%B7%20DevOps%20%C2%B7%20Data&descSize=16&descAlignY=62&descAlign=50&descColor=f1f5f9&textBgColor=000000&textBgOpacity=0.45" alt="Kevin Bryan Austria Galvan" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+real-world+software+from+idea+to+production;Laravel+%C2%B7+React+%C2%B7+.NET+%C2%B7+PostgreSQL;CI%2FCD+pipelines+%C2%B7+50%2B+production+deploys&font=Fira+Code&center=true&width=620&height=52&pause=1400&color=2dd4bf&size=20&vCenter=true&repeat=false" alt="Typing headline" />
 

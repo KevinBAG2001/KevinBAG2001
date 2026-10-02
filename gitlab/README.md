@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=020617&height=200&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=How%20I%20work%20%C2%B7%20How%20I%20ship&descSize=17&descAlignY=58&descAlign=50&descColor=cbd5e1&stroke=FC6D26&strokeWidth=1.2" alt="Kevin Bryan Austria Galvan — Engineering and DevOps" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:020617&height=210&section=header&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=How%20I%20work%20%C2%B7%20How%20I%20ship&descSize=17&descAlignY=60&descAlign=50&descColor=f1f5f9&textBgColor=000000&textBgOpacity=0.45" alt="Kevin Bryan Austria Galvan — Engineering and DevOps" width="100%" />
 
 **Engineering and DevOps hub** — delivery, pipelines, automation
 
