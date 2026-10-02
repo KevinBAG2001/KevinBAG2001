@@ -119,6 +119,7 @@ Architecture with clear boundaries · relational data design · **REST APIs** ·
 
 </div>
 
+<img alt="Gráfica de contribuciones (Pac-Man)" src="https://raw.githubusercontent.com/KevinBAG2001/KevinBAG2001/pacman-output/pacman-contribution-graph.svg?game=pacman">
 <details>
 <summary><strong>Perfil en español</strong></summary>
 
