@@ -1,76 +1,102 @@
-# Kevin Bryan Austria Galvan
+<div align="center">
 
-### Full-Stack Developer (Laravel · React · .NET · Flutter)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:FC6D26,100:1e293b&height=240&section=header&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%26%20Tech%20Lead&descAlignY=58&descSize=19&descAlign=50" alt="Kevin Bryan Austria Galvan" width="100%" />
 
-![Freelance | Part-time](https://img.shields.io/badge/Freelance%20%7C%20Part--time-10–20%20h%2Fsem-10b981?style=for-the-badge)
-![Pachuca, MX UTC-6](https://img.shields.io/badge/Pachuca%2C%20MX-UTC--6-64748b?style=for-the-badge)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kevinbag2001.github.io-0ea5e9?style=for-the-badge)](https://kevinbag2001.github.io)
+<img src="https://readme-typing-svg.demolab.com/?lines=Laravel+%C2%B7+React+%C2%B7+.NET+%C2%B7+Flutter;Disponible+freelance+remoto+%C2%B7+10%E2%80%9320+h%2Fsem+%C2%B7+UTC-6;Microsoft+AI+Specialization+%28150+h%2C+completada%29&font=Fira+Code&center=true&width=620&height=56&pause=1200&color=FCA76A&size=19&vCenter=true" alt="Typing animation" />
 
+<br />
+
+[![Freelance](https://img.shields.io/badge/Freelance%20%7C%20Part--time-10%E2%80%9320%20h%2Fsem-10b981?style=for-the-badge&logo=clock&logoColor=white)](mailto:kevinbryan_austria@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kevinbag2001.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kevinbag2001.github.io)
 [![GitLab](https://img.shields.io/badge/GitLab-KevinBAG2001-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/KevinBAG2001)
-[![GitHub](https://img.shields.io/badge/GitHub-KevinBAG2001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KevinBAG2001)
-[![Email](https://img.shields.io/badge/Email-kevinbryan__austria@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbryan_austria@outlook.com)
 
-<!-- LinkedIn: add your URL when ready
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME)
--->
+</div>
+
+**Construyo software empresarial de punta a punta** para organismos gubernamentales: requerimientos, modelos de datos, **APIs REST**, reportes **PDF/Excel** y despliegue con **GitLab CI/CD** (`dev` / `qa` / `main`).
+
+**Líder de Proyecto** del Sistema Integral de Recursos Humanos en **IMSS-Bienestar** (Laravel 11, PostgreSQL, Alfresco). **Especialización Microsoft en Inteligencia Artificial (150 h)** — completada ene–jul 2026.
+
+**Freelance / part-time remoto** — tardes, noches y fines de semana (UTC-6).
 
 ---
-
-## Español
-
-Desarrollador **Full-Stack** y líder técnico con experiencia en software empresarial para organismos gubernamentales. **Líder de Proyecto** del Sistema Integral de Recursos Humanos en **IMSS-Bienestar** (Laravel 11, PostgreSQL, Alfresco, GitLab CI/CD).
-
-**Especialización Microsoft en Inteligencia Artificial (150 h)** — Centro Público de Formación en IA, 1.ª generación (**completada**, ene–jul 2026).
-
-**Disponible para freelance / part-time remoto** — 10–20 h/sem, tardes/noches y fines de semana (UTC-6).
 
 ### Stack
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<div align="center">
 
-### Proyectos destacados
+<img src="https://skillicons.dev/icons?i=php,python,js,cs,dart,html,css" alt="Languages" />
 
-- **[Abyssan](https://github.com/KevinBAG2001/Abyssan)** — Cliente Git local y autoalojable (TypeScript, React). DAG, staging, diff y flujos Git seguros desde el navegador.
-- **[detector-de-tokens](https://github.com/KevinBAG2001/detector-de-tokens)** — Monitor local de cuotas/tokens para Antigravity y Gemini. Zero-leakage (solo métricas on-device); UI liquid glass con TPM/RPM y desglose de uso.
+<img src="https://skillicons.dev/icons?i=laravel,react,flutter,dotnet,bootstrap,tailwind" alt="Frameworks" />
 
-### Experiencia (resumen)
+<img src="https://skillicons.dev/icons?i=postgres,git,github,gitlab" alt="Data and DevOps" />
 
-| Rol | Organización | Periodo |
-| --- | ------------ | ------- |
-| Líder de Proyecto – Sistema Integral de RH | IMSS-Bienestar | Abr 2026 – Actualidad |
-| Desarrollador / Sublíder Full-Stack | Municipio de Pachuca de Soto | Jul 2025 – Abr 2026 |
-| Desarrollador Junior | Hopewell System | 2023 – 2024 |
+<sub>SQL Server · VB.NET · REST · Alfresco · GitKraken · PDF/Excel</sub>
 
-### Servicios
-
-Laravel/PHP · APIs REST · PDF/Excel · PostgreSQL & SQL Server · Flutter · Documentación · GitLab CI/CD (ramas dev/qa/main).
-
-### Contacto
-
-- [kevinbryan_austria@outlook.com](mailto:kevinbryan_austria@outlook.com)
-- [gitlab.com/KevinBAG2001](https://gitlab.com/KevinBAG2001)
-- [github.com/KevinBAG2001](https://github.com/KevinBAG2001)
-- [kevinbag2001.github.io](https://kevinbag2001.github.io)
+</div>
 
 ---
 
-## English
+### Proyectos destacados
 
-**Full-Stack Developer** and technical lead for government enterprise systems. **Project Lead**, IMSS-Bienestar HR platform (Laravel 11, PostgreSQL, Alfresco, GitLab CI/CD).
+| Proyecto | Descripción |
+| -------- | ----------- |
+| [**Abyssan**](https://github.com/KevinBAG2001/Abyssan) | Cliente Git local y autoalojable (TypeScript, React). DAG, staging, diff y flujos seguros en el navegador. |
+| [**detector-de-tokens**](https://github.com/KevinBAG2001/detector-de-tokens) | Monitor local-first de cuotas/tokens Antigravity/Gemini. Zero-leakage; UI liquid glass, TPM/RPM. |
 
-**Microsoft AI Specialization (150 h)** — Centro Público de Formación en IA (**completed** Jan–Jul 2026).
+---
 
-**Remote freelance / part-time** — 10–20 h/week, evenings & weekends (UTC-6).
+### Experiencia
+
+| Organización | Rol | Periodo |
+| ------------ | --- | ------- |
+| IMSS-Bienestar | Líder de Proyecto — Sistema Integral de RH | Abr 2026 – Actualidad |
+| Municipio de Pachuca | Dev. Sistemas / Sublíder Full-Stack | Jul 2025 – Abr 2026 |
+| Hopewell System | Dev. Sistemas Junior | 2023 – 2024 |
+
+[Portfolio & CV](https://kevinbag2001.github.io)
+
+---
+
+### Lo que puedo hacer por tu proyecto
+
+- Mantenimiento y features **Laravel / PHP**
+- **APIs REST** e integraciones (Alfresco, captcha, servicios externos)
+- Reportes **PDF** / **Excel**
+- **PostgreSQL** y **SQL Server** (modelado, optimización, respaldos)
+- Apps **Flutter**
+- **GitLab CI/CD** y documentación técnica
+
+---
+
+<div align="center">
+
+### Contacto
+
+[![Email](https://img.shields.io/badge/Email-kevinbryan__austria@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbryan_austria@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-KevinBAG2001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KevinBAG2001)
+[![Portfolio](https://img.shields.io/badge/Sitio-kevinbag2001.github.io-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kevinbag2001.github.io)
+
+<!-- LinkedIn: uncomment when ready
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME)
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=90&section=footer&text=GitLab+%C2%B7+CI%2FCD+%C2%B7+Entrega+continua&fontSize=14&fontColor=94a3b8&animation=twinkling" alt="" width="100%" />
+
+</div>
+
+<details>
+<summary><strong>English profile</strong></summary>
+
+<br />
+
+**End-to-end enterprise software** for government: requirements, data modeling, REST APIs, PDF/Excel reporting, GitLab CI/CD.
+
+**Project Lead**, IMSS-Bienestar HR system (Laravel 11, PostgreSQL, Alfresco). **Microsoft AI Specialization (150 h)** — completed Jan–Jul 2026.
+
+**Remote freelance / part-time**, 10–20 h/week (UTC-6).
 
 **Projects:** [Abyssan](https://github.com/KevinBAG2001/Abyssan) · [detector-de-tokens](https://github.com/KevinBAG2001/detector-de-tokens)
 
 **Contact:** [kevinbryan_austria@outlook.com](mailto:kevinbryan_austria@outlook.com) · [Portfolio](https://kevinbag2001.github.io)
+
+</details>
