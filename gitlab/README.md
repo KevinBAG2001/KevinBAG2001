@@ -20,7 +20,7 @@
 
 Desarrollador **Full-Stack** y líder técnico con experiencia en software empresarial para organismos gubernamentales. **Líder de Proyecto** del Sistema Integral de Recursos Humanos en **IMSS-Bienestar** (Laravel 11, PostgreSQL, Alfresco, GitLab CI/CD).
 
-**Especialización Microsoft en Inteligencia Artificial (150 h)** — Centro Público de Formación en IA, 1.ª generación (2026, en curso).
+**Especialización Microsoft en Inteligencia Artificial (150 h)** — Centro Público de Formación en IA, 1.ª generación (**completada**, ene–jul 2026).
 
 **Disponible para freelance / part-time remoto** — 10–20 h/sem, tardes/noches y fines de semana (UTC-6).
 
@@ -29,17 +29,18 @@ Desarrollador **Full-Stack** y líder técnico con experiencia en software empre
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Proyectos destacados
 
-- **[Abyssan](https://github.com/KevinBAG2001/Abyssan)** — Cliente Git local y autoalojable (React 19, Node/Express, TypeScript). DAG interactivo, staging, diff y operaciones Git con sandbox de rutas; Docker Compose.
-- **[detector-de-tokens](https://github.com/KevinBAG2001/detector-de-tokens)** — Monitor local de cuotas/tokens para Antigravity y Gemini. Arquitectura hexagonal, WebSocket, zero-leakage; SPA React y hotbar Tauri.
+- **[Abyssan](https://github.com/KevinBAG2001/Abyssan)** — Cliente Git local y autoalojable (TypeScript, React). DAG, staging, diff y flujos Git seguros desde el navegador.
+- **[detector-de-tokens](https://github.com/KevinBAG2001/detector-de-tokens)** — Monitor local de cuotas/tokens para Antigravity y Gemini. Zero-leakage (solo métricas on-device); UI liquid glass con TPM/RPM y desglose de uso.
 
 ### Experiencia (resumen)
 
@@ -66,7 +67,7 @@ Laravel/PHP · APIs REST · PDF/Excel · PostgreSQL & SQL Server · Flutter · D
 
 **Full-Stack Developer** and technical lead for government enterprise systems. **Project Lead**, IMSS-Bienestar HR platform (Laravel 11, PostgreSQL, Alfresco, GitLab CI/CD).
 
-**Microsoft AI Specialization (150 h)** — Centro Público de Formación en IA (2026, in progress).
+**Microsoft AI Specialization (150 h)** — Centro Público de Formación en IA (**completed** Jan–Jul 2026).
 
 **Remote freelance / part-time** — 10–20 h/week, evenings & weekends (UTC-6).
 
