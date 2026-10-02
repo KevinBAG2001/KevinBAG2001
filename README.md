@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=230&section=header&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Engineering%20%C2%B7%20DevOps%20%C2%B7%20Data&descSize=16&descAlignY=62&descAlign=50&descColor=f1f5f9&textBgColor=000000&textBgOpacity=0.45" alt="Kevin Bryan Austria Galvan" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,55:0f172a,100:0d9488&height=200&section=header&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Engineering%20%C2%B7%20DevOps%20%C2%B7%20Data&descSize=16&descAlignY=60&descColor=99f6e4" alt="Kevin Bryan Austria Galvan" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+real-world+software+from+idea+to+production;Laravel+%C2%B7+React+%C2%B7+.NET+%C2%B7+PostgreSQL;CI%2FCD+pipelines+%C2%B7+50%2B+production+deploys&font=Fira+Code&center=true&width=620&height=52&pause=1400&color=2dd4bf&size=20&vCenter=true&repeat=false" alt="Typing headline" />
 
@@ -115,7 +115,7 @@ Architecture with clear boundaries · relational data design · **REST APIs** ·
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:020617&height=90&section=footer&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=16&fontColor=e2e8f0&animation=twinkling" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d9488,100:020617&height=80&section=footer" alt="" width="100%" />
 
 </div>
 

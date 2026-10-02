@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:020617&height=210&section=header&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=How%20I%20work%20%C2%B7%20How%20I%20ship&descSize=17&descAlignY=60&descAlign=50&descColor=f1f5f9&textBgColor=000000&textBgOpacity=0.45" alt="Kevin Bryan Austria Galvan — Engineering and DevOps" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,55:0f172a,100:0d9488&height=200&section=header&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=How%20I%20work%20%C2%B7%20How%20I%20ship&descSize=16&descAlignY=60&descColor=99f6e4" alt="Kevin Bryan Austria Galvan — Engineering and DevOps" width="100%" />
 
 **Engineering and DevOps hub** — delivery, pipelines, automation
 
@@ -98,6 +98,6 @@ Reproducible automation—the same mindset as application **CI/CD** and runbooks
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC6D26,100:020617&height=80&section=footer&text=GitLab%20CI%2FCD%20%C2%B7%20Ship%20with%20confidence&fontSize=15&fontColor=e2e8f0&animation=twinkling" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d9488,100:020617&height=80&section=footer" alt="" width="100%" />
 
 </div>
