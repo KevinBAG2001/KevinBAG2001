@@ -2,108 +2,130 @@
 
 # Kevin Bryan Austria Galvan
 
-### Sistemas Computacionales | Ingeniería de Software | DevOps | Arquitectura de Datos
+### Full-Stack Developer (Laravel · React · .NET · Flutter)
 
-Profesional especializado en el diseño, desarrollo y automatización de sistemas informáticos. Este repositorio sirve como un registro público de mi evolución técnica, arquitecturas implementadas y estándares de ingeniería. Mi entorno principal de operaciones y gestión de repositorios corporativos se encuentra en **GitLab**.
+[![Disponibilidad](https://img.shields.io/badge/Freelance%20%7C%20Part--time-10–20%20h%2Fsem-10b981?style=for-the-badge)](mailto:kevinbryan_austria@outlook.com)
+[![Ubicación](https://img.shields.io/badge/Pachuca%2C%20MX-UTC--6-64748b?style=for-the-badge)](https://kevinbag2001.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kevinbag2001.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kevinbag2001.github.io)
 
-[![GitLab](https://img.shields.io/badge/GitLab-Perfil_principal-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/KevinBAG2001)
+[![GitLab](https://img.shields.io/badge/GitLab-KevinBAG2001-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/KevinBAG2001)
 [![GitHub](https://img.shields.io/badge/GitHub-KevinBAG2001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KevinBAG2001)
+[![Email](https://img.shields.io/badge/Email-kevinbryan__austria@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbryan_austria@outlook.com)
+
+<!-- LinkedIn: añade tu URL cuando la tengas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+-->
+
+**[English ↓](#english)**
 
 </div>
 
 ---
 
-## Resumen Profesional
+## Hola
 
-Experto en sistemas computacionales con grado de maestría, enfocado en la construcción de software escalable, automatización de procesos empresariales y administración de bases de datos relacionales. Mi metodología de trabajo prioriza las buenas prácticas de ingeniería, la integración continua y el despliegue eficiente.
+Desarrollador **Full-Stack** y líder técnico con experiencia en software empresarial para organismos gubernamentales. Hoy soy **Líder de Proyecto** del Sistema Integral de Recursos Humanos en **IMSS-Bienestar** (Laravel 11, PostgreSQL, Alfresco, GitLab CI/CD).
 
-Diseño e implemento soluciones Full-Stack utilizando arquitecturas modernas y herramientas de desarrollo avanzadas, operando de manera nativa en entornos Linux, macOS y Windows para garantizar un ciclo de vida de desarrollo multiplataforma e ininterrumpido.
+Formación reciente: **Especialización Microsoft en Inteligencia Artificial (150 h)**, Centro Público de Formación en IA (1.ª generación, en curso 2026).
 
----
-
-## Competencias y Ecosistema Tecnológico
-
-### Arquitectura y Desarrollo
-### Backend & APIs — Arquitectura y desarrollo
-* **Python:** FastAPI, SQLAlchemy, Alembic, Pydantic, Uvicorn, pytest
-* **PHP / Laravel:** Laravel 11, PHP 8.2, arquitectura MVC, integración con servicios externos (Alfresco, captcha, DataTables)
-* **Node.js:** Express, EJS, APIs REST, testing con Jest y Supertest
-* **Java:** (mantener solo si lo usas en trabajo u otros proyectos; no aparece en estos repos)
-### Frontend
-* **React:** React 19, TypeScript, React Router, TanStack Query, Radix UI, Framer Motion
-* **JavaScript:** ES6+, DOM, Fetch/REST, Async/Await, IndexedDB, patrones de diseño
-* **UI/CSS:** HTML5, CSS3, Tailwind CSS, Bootstrap 5, Sass, ApexCharts
-* **Build & tooling:** Vite, Vitest, Testing Library
-### Bases de datos
-* **PostgreSQL**
-* **SQLite**
-* **MySQL**
-* **SQL avanzado:** modelado, migraciones (Alembic), optimización, transacciones, semillas y respaldos
-### Procesamiento de documentos & datos
-* **PDF:** PyMuPDF, DomPDF, FPDF/FPDI, extracción y generación
-* **OCR:** Tesseract (spa+eng), preprocesamiento de imágenes con Pillow
-* **Excel/Spreadsheets:** Maatwebsite Excel, PhpSpreadsheet, Excel VBA avanzado
-### DevOps & despliegue
-* **Docker** / Docker Compose
-* **Git** / GitLab CI (pipelines, ramas dev/qa/main)
-* **Vercel**
-* **XAMPP**
-### Automatización & flujos operativos
-* **Excel VBA** avanzado para procesamiento de datos y optimización de flujos
-* **Scripts Python** para migraciones, semillas y distribución portable (lector-pdf)
-* **Batch/PowerShell** para despliegue local en Windows
-### Testing & calidad
-* **pytest,** pytest-asyncio (Python)
-* **Jest,** Supertest (Node)
-* **Vitest,** Testing Library (React)
-* **Mocha** (JS)
-* **Cypress** (Curso JS Moderno)
-### Dominio / contexto
-* **Sistemas de Recursos Humanos**
-* **IMSS Bienestar / control operativo de personal**
-* **Arquitectura monolito modular con DDD**
-
-### Infraestructura y Herramientas
-* **Control de Versiones:** Git, GitLab, GitHub, GitKraken.
-* **Entornos de Desarrollo:** JetBrains Suite, Cursor IDE, VS Code.
-* **Sistemas Operativos:** Linux, macOS, Windows.
+**Disponible para freelance / part-time remoto** — 10–20 h/sem, tardes/noches y fines de semana (UTC-6).
 
 ---
 
-## Ciclo de Vida del Software (GitFlow)
+## Stack
 
-Gestión rigurosa de repositorios para asegurar la calidad del código, separando el desarrollo lógico de la entrega final mediante una topología de ramificación estándar en la industria:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-* `main`: Entregables estables y versiones de producción.
-* `qa`: Entorno de pruebas, control de calidad y validación de integración.
-* `dev`: Rama central de integración continua.
-* `feature/*`: Desarrollo de nuevos componentes o módulos.
-* `bugfix/*`: Resolución de incidencias en fases de desarrollo.
-* `hotfix/*`: Intervenciones críticas sobre la rama de producción.
-* `release/*`: Congelación de código y preparación para despliegue.
+Lenguajes: PHP, JavaScript, TypeScript, C#, Dart, Python, SQL · Front: React, Blade, Bootstrap, Tailwind · APIs REST · Reportes PDF/Excel · DevOps: Git, ramas `dev` / `qa` / `main`.
 
 ---
 
-## Áreas de Especialidad
+## Proyectos destacados
 
-* **Ingeniería de Software:** Diseño de aplicaciones mediante patrones de arquitectura y código limpio.
-* **Gestión de Datos:** Administración integral de motores PostgreSQL mediante clientes avanzados (JetBrains/DataGrip).
-* **Optimización de Flujos (CI/CD):** Estructuración de repositorios y automatización de despliegues en GitLab.
-* **Soluciones Empresariales:** Integración de herramientas corporativas y automatización de procesos legados.
+| Proyecto | Descripción |
+| -------- | ----------- |
+| [**Abyssan**](https://github.com/KevinBAG2001/Abyssan) | Cliente Git **local y autoalojable** (TypeScript, React 19, Node/Express). Visualiza el historial como **DAG**, staging visual, diff y flujos Git desde el navegador, con sandbox de rutas y despliegue Docker. Enfoque: entender la operación antes de ejecutarla. |
+| [**detector-de-tokens**](https://github.com/KevinBAG2001/detector-de-tokens) | Monitor **local-first** de cuotas y tokens para **Google Antigravity** y modelos **Gemini**. Monorepo pnpm/Turborepo: API Node + SPA React y hotbar Tauri. Política **zero-leakage**: solo métricas on-device, sin enviar código ni prompts. UI “liquid glass” con TPM/RPM y desglose de uso. |
+
+---
+
+## Experiencia (resumen)
+
+| Rol | Organización | Periodo |
+| --- | ------------ | ------- |
+| Líder de Proyecto – Sistema Integral de RH | IMSS-Bienestar | Abr 2026 – Actualidad |
+| Desarrollador de Sistemas / Sublíder Full-Stack | Municipio de Pachuca de Soto | Jul 2025 – Abr 2026 |
+| Desarrollador de Sistemas Junior | Hopewell System | 2023 – 2024 |
+
+Detalle en [portfolio](https://kevinbag2001.github.io) y CV (contacto).
+
+---
+
+## Servicios freelance
+
+- Mantenimiento y nuevas funcionalidades en **Laravel/PHP**
+- **APIs REST** e integraciones (Alfresco, captcha, servicios externos)
+- Reportes automatizados **PDF/Excel**
+- Bases de datos **PostgreSQL** y **SQL Server** (modelado, optimización, respaldos)
+- Apps multiplataforma con **Flutter**
+- Documentación técnica y pipelines **GitLab CI/CD**
+
+---
+
+## GitFlow (referencia)
+
+Gestión de ramas alineada a entornos institucionales:
+
+- `main` — producción estable
+- `qa` — pruebas e integración
+- `dev` — integración continua
+- `feature/*`, `bugfix/*`, `hotfix/*`, `release/*`
+
+---
+
+## Contacto
+
+- **Email:** [kevinbryan_austria@outlook.com](mailto:kevinbryan_austria@outlook.com)
+- **GitLab:** [gitlab.com/KevinBAG2001](https://gitlab.com/KevinBAG2001)
+- **GitHub:** [github.com/KevinBAG2001](https://github.com/KevinBAG2001)
+- **Portfolio:** [kevinbag2001.github.io](https://kevinbag2001.github.io)
 
 ---
 
 <div align="center">
 
-### Métricas de Rendimiento Técnico
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KevinBAG2001&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
-
-<picture data-importer="pacman">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinBAG2001/KevinBAG2001/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinBAG2001/KevinBAG2001/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/KevinBAG2001/KevinBAG2001/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="Gráfica de contribuciones (Pac-Man)" src="https://raw.githubusercontent.com/KevinBAG2001/KevinBAG2001/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-
 </div>
+
+---
+
+<a id="english"></a>
+
+## English
+
+**Full-Stack Developer** and technical lead building enterprise software for government organizations. **Project Lead** for the integrated Human Resources system at **IMSS-Bienestar** (Laravel 11, PostgreSQL, Alfresco, GitLab CI/CD).
+
+Recent training: **Microsoft Artificial Intelligence Specialization (150 h)**, Centro Público de Formación en Inteligencia Artificial (1st cohort, in progress 2026).
+
+**Available for remote freelance / part-time work** — 10–20 h/week, evenings and weekends (UTC-6).
+
+**Featured projects:** [Abyssan](https://github.com/KevinBAG2001/Abyssan) (self-hosted local Git GUI, React/Node) · [detector-de-tokens](https://github.com/KevinBAG2001/detector-de-tokens) (local Gemini/Antigravity token & quota monitor, zero-leakage).
+
+**Services:** Laravel/PHP, REST APIs, PDF/Excel reporting, PostgreSQL & SQL Server, Flutter apps, technical documentation, GitLab CI/CD.
+
+**Contact:** [kevinbryan_austria@outlook.com](mailto:kevinbryan_austria@outlook.com) · [Portfolio](https://kevinbag2001.github.io) · [GitLab](https://gitlab.com/KevinBAG2001)
