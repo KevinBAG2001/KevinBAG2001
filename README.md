@@ -74,8 +74,8 @@ Public metrics from the GitHub API (public repositories only). GitLab activity l
 | Metric | Count |
 | --- | ---: |
 | Public repositories | **4** |
-| Commits (2026, author) | **138** |
-| Pull requests opened (2026) | **101** |
+| Commits (2026, author) | **140** |
+| Pull requests opened (2026) | **105** |
 | Stars on public repositories | **2** |
 
 <sub>Last updated: 2026-11-21 (UTC) · <a href="https://github.com/KevinBAG2001/KevinBAG2001/actions/workflows/readme-stats.yml">readme-stats workflow</a></sub>
