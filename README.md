@@ -1,140 +1,117 @@
-<div align="center">
+## Kevin Bryan Austria Galvan
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,55:0f172a,100:0d9488&height=200&section=header&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Engineering%20%C2%B7%20DevOps%20%C2%B7%20Data&descSize=16&descAlignY=60&descColor=99f6e4" alt="Kevin Bryan Austria Galvan" width="100%" />
+**Full-Stack Developer** (Software Engineering · DevOps · Data)
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+real-world+software+from+idea+to+production;Laravel+%C2%B7+React+%C2%B7+.NET+%C2%B7+PostgreSQL;CI%2FCD+pipelines+%C2%B7+50%2B+production+deploys&font=Fira+Code&center=true&width=620&height=52&pause=1400&color=2dd4bf&size=20&vCenter=true&repeat=false" alt="Typing headline" />
+*Building real-world software from idea to production.*
 
-<br />
+<sub>Español nativo · Inglés básico</sub>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kevinbag2001.github.io-0d9488?style=flat-square&logo=googlechrome&logoColor=white)](https://kevinbag2001.github.io)
-[![GitLab](https://img.shields.io/badge/GitLab-KevinBAG2001-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/KevinBAG2001)
-[![Email](https://img.shields.io/badge/Email-kevinbryan__austria@outlook.com-64748b?style=flat-square&logo=gmail&logoColor=white)](mailto:kevinbryan_austria@outlook.com)
+<p align="left">
+  <a href="https://kevinbag2001.github.io/"><img src="https://img.shields.io/badge/Portfolio-kevinbag2001.github.io-0f766e?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/kevin-austria-galvan-605117274"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://gitlab.com/KevinBAG2001"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
+</p>
 
-</div>
-
-I build end-to-end software, connecting development, data, and delivery to take solutions from idea to production.
+I design and ship full-stack products: clear boundaries, relational data, automated delivery, and operable production environments.
 
 ---
 
-### Featured · Abyssan
+### Star projects
 
 <table>
-<tr>
-<td width="58%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-**[Abyssan](https://github.com/KevinBAG2001/Abyssan)** · `OPEN SOURCE`
+**[Abyssan](https://github.com/KevinBAG2001/Abyssan)** · MIT · TypeScript
 
-Self-hosted, local Git client — pnpm monorepo · React 19 · TypeScript · Node/Express · Docker Compose.
-
-- Real-time repo change notifications via **WebSocket** and filesystem watching.
-- **Layered architecture** (HTTP → use cases → Git adapter) with **route sandboxing** under a single projects root.
-- **Vitest** coverage and **Docker Compose** for repeatable API + SPA environments.
+Self-hosted **visual Git client** you run on your own machine. pnpm monorepo with a React SPA, a TypeScript API, filesystem watching, and Docker Compose for a repeatable local stack.
 
 </td>
-<td width="42%" align="center" valign="top">
+    <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinBAG2001&repo=Abyssan&theme=tokyonight&hide_border=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&bg_color=0d1117" alt="Abyssan repository card" />
+**[Bastion](https://github.com/KevinBAG2001/bastion)** · Apache-2.0 · TypeScript
+
+**Cybersecurity learning platform in Spanish** for beginners: guided lessons, quizzes, XP, levels, and achievements. **Next.js 16**, **Auth.js**, **Prisma**, **PostgreSQL**, **Argon2id**, **2FA (TOTP)**, and **Have I Been Pwned** breach checks.
 
 </td>
-</tr>
+  </tr>
 </table>
+
+---
 
 ### Professional work
 
-| System | Focus | Status |
-| ------ | ----- | ------ |
-| **Document Management & Operational Tracking System** | Public-sector document lifecycle: **Alfresco** + **Nextcloud**, validation rules (locked after approval), physical-signature → signed PDF closure, role/area permissions, OTP + single-session controls for sensitive roles, daily **PDF/Excel** reporting, **GitLab CI/CD** (250+ merge requests in continuous evolution). | `PRODUCTION` |
-| **Personnel Operations Platform** | Built from scratch: daily capture, roles, employee records with auto-capture, goals from Excel, shift states, grouped history, vacations, training, incidents, productivity **PDF** outputs. | `PRODUCTION` / `IN DEVELOPMENT` |
-| **Digital Property-Tax Collection System** | Municipal property-tax workflow: **barcode generation and validation** for payment through an **external payment channel**. Stack: **.NET**, **C#**, **PHP**, **JavaScript**, **SQL Server**. | `PRODUCTION` |
+Selected production systems (clients and employers anonymized).
+
+| System | What it does | Stack |
+| --- | --- | --- |
+| **Correspondence & document platform** | Incoming/outgoing correspondence, approval flows, signed PDF closure, Alfresco-backed repositories, role-based access, operational PDF/Excel reporting | Laravel 11 · PHP 8.2 · PostgreSQL · Alfresco |
+| **Personnel census** | Master employee records, org structure, and census workflows for large teams | Laravel 12 · React 19 |
+| **Personnel operations platform** | Daily ops capture, shifts, goals, training, incidents, and PDF productivity outputs | React 19 · TypeScript · Vite · FastAPI · Docker · PostgreSQL 16 |
+| **Training platform** | Course delivery, progress tracking, and certification-style workflows | Laravel 13 · React 19 |
 
 ---
 
 ### Core stack
 
-<table>
-<tr>
-<th align="left">Frontend</th>
-<th align="left">Backend</th>
-<th align="left">Data</th>
-<th align="left">DevOps</th>
-</tr>
-<tr>
-<td>React · TypeScript · JavaScript</td>
-<td>PHP · Laravel · C# · .NET</td>
-<td>PostgreSQL · SQL Server · SQL</td>
-<td>Git · GitHub · GitLab · GitLab CI/CD · Docker</td>
-</tr>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=react,ts,js&theme=dark&perline=6" height="48" alt="Frontend icons" /></td>
-<td><img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet&theme=dark&perline=6" height="48" alt="Backend icons" /></td>
-<td><img src="https://skillicons.dev/icons?i=postgres&theme=dark&perline=4" height="48" alt="Data icons" /></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=dark&perline=6" height="48" alt="DevOps icons" /></td>
-</tr>
-</table>
+| Layer | Tools |
+| --- | --- |
+| **Frontend** | React · TypeScript · Vite · Tailwind CSS |
+| **Backend** | PHP · Laravel · Python · FastAPI · Node.js |
+| **Data** | PostgreSQL · SQL Server · Prisma |
+| **Core** | Git · GitHub · GitLab · CI/CD · **Docker** |
 
-<sub>Supporting: Python · Flutter · Dart · Blade · Tailwind CSS · Bootstrap · VB.NET · Expanding: Analytics · BI · AI</sub>
+Also working with .NET/C#, analytics, and applied AI in formal training.
 
 ---
 
-### How I build
+### GitHub activity
 
-**Build** → **Test** → **Automate** → **Deploy** → **Improve**
+<!-- STATS:START -->
 
-Architecture with clear boundaries · relational data design · **REST APIs** · automated pipelines · production operations.
+Public metrics from the GitHub API (public repositories only). GitLab activity lives on [my GitLab profile](https://gitlab.com/KevinBAG2001).
 
----
+| Metric | Count |
+| --- | ---: |
+| Public repositories | **4** |
+| Commits (2026, author) | **138** |
+| Pull requests opened (2026) | **101** |
+| Stars on public repositories | **2** |
 
-<div align="center">
+<sub>Last updated: 2026-11-21 (UTC) · <a href="https://github.com/KevinBAG2001/KevinBAG2001/actions/workflows/readme-stats.yml">readme-stats workflow</a></sub>
 
-### Impact
-
-<table>
-<tr>
-<td align="center" width="25%"><br /><strong style="font-size:2em">50+</strong><br /><sub>production deploys</sub><br /><br /></td>
-<td align="center" width="25%"><br /><strong style="font-size:2em">15 h → 5 min</strong><br /><sub>reporting workflow</sub><br /><br /></td>
-<td align="center" width="25%"><br /><strong style="font-size:2em">100+</strong><br /><sub>employees served (HR platform)</sub><br /><br /></td>
-<td align="center" width="25%"><br /><strong style="font-size:2em">250+</strong><br /><sub>merge requests (document platform)</sub><br /><br /></td>
-</tr>
-</table>
-
-</div>
+<!-- STATS:END -->
 
 ---
 
-### Currently
+### Now
 
-- **Master's in Business Analytics & Intelligence** — in progress
-- **Microsoft AI Specialization (150 h)** — completed Jan–Jul 2026, Centro Público de Formación en IA
+- Master's in **Business Analytics & Intelligence** — in progress  
+- **Microsoft AI Specialization (150 h)** — completed Jan–Jul 2026  
 
 ---
 
-<div align="center">
+### Contact
 
-<img src="https://github-readme-stats.vercel.app/api?username=KevinBAG2001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&title_color=2dd4bf&icon_color=2dd4bf" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinBAG2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=2dd4bf" height="165" alt="Top languages" />
+**Email:** [kevinbryan_austria@outlook.com](mailto:kevinbryan_austria@outlook.com)
 
-<br /><br />
+<img alt="Contribution graph (Pac-Man)" src="https://raw.githubusercontent.com/KevinBAG2001/KevinBAG2001/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d9488,100:020617&height=80&section=footer" alt="" width="100%" />
-
-</div>
-
-<img alt="Gráfica de contribuciones (Pac-Man)" src="https://raw.githubusercontent.com/KevinBAG2001/KevinBAG2001/pacman-output/pacman-contribution-graph.svg?game=pacman">
 <details>
 <summary><strong>Perfil en español</strong></summary>
 
 <br />
 
-**Construyo software para problemas reales, desde la idea hasta producción.**
+Soy **desarrollador full-stack**: ingeniería de software, DevOps y datos. Construyo productos reales desde la idea hasta producción.
 
-Desarrollo software de extremo a extremo, conectando desarrollo, datos y entrega.
+**Proyectos destacados:** [Abyssan](https://github.com/KevinBAG2001/Abyssan) (cliente Git visual autoalojable) y [Bastion](https://github.com/KevinBAG2001/bastion) (ciberseguridad para principiantes, en español).
 
-**Proyectos:** [Abyssan](https://github.com/KevinBAG2001/Abyssan) (open source) · sistemas profesionales anonimizados arriba.
+**Experiencia profesional** (anonimizada en la tabla superior): plataformas de correspondencia/documentos, censo de personal, operación de personal y capacitación.
 
-**Impacto:** 50+ despliegues · reportes 15 h → 5 min · 100+ empleados · 250+ merge requests.
+**Idiomas:** español nativo · inglés básico.
 
-**Actualmente:** Maestría en Analítica e Inteligencia de Negocios (en curso) · Especialización Microsoft IA 150 h (completada, 2026).
+**Formación actual:** maestría en Analítica e Inteligencia de Negocios; especialización Microsoft en IA (150 h, 2026).
 
-[Portfolio](https://kevinbag2001.github.io) · [GitLab](https://gitlab.com/KevinBAG2001) · [kevinbryan_austria@outlook.com](mailto:kevinbryan_austria@outlook.com)
+**Contacto:** [kevinbryan_austria@outlook.com](mailto:kevinbryan_austria@outlook.com) · [Portfolio](https://kevinbag2001.github.io/) · [GitLab](https://gitlab.com/KevinBAG2001) · [LinkedIn](https://www.linkedin.com/in/kevin-austria-galvan-605117274)
 
 </details>
