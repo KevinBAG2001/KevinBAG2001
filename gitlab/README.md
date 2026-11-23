@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,55:0f172a,100:0d9488&height=200&section=header&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=How%20I%20work%20%C2%B7%20How%20I%20ship&descSize=16&descAlignY=60&descColor=99f6e4" alt="Kevin Bryan Austria Galvan — Engineering and DevOps" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0B10,50:1E3A8A,100:E23636&height=200&section=header&text=Kevin%20Bryan%20Austria%20Galvan&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=How%20I%20work%20%C2%B7%20How%20I%20ship&descSize=16&descAlignY=60&descColor=cbd5e1" alt="Kevin Bryan Austria Galvan — Engineering and DevOps" width="100%" />
 
 **Engineering and DevOps hub** — delivery, pipelines, automation
 
 <br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-What_I_build-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KevinBAG2001)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kevinbag2001.github.io-0d9488?style=flat-square&logo=googlechrome&logoColor=white)](https://kevinbag2001.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kevinbag2001.github.io-E23636?style=flat-square&logo=googlechrome&logoColor=white)](https://kevinbag2001.github.io)
 [![Email](https://img.shields.io/badge/Email-kevinbryan__austria@outlook.com-64748b?style=flat-square&logo=gmail&logoColor=white)](mailto:kevinbryan_austria@outlook.com)
 
 </div>
@@ -98,6 +98,6 @@ Reproducible automation—the same mindset as application **CI/CD** and runbooks
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d9488,100:020617&height=80&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E23636,100:0B0B10&height=80&section=footer" alt="" width="100%" />
 
 </div>
