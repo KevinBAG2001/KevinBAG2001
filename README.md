@@ -1,43 +1,55 @@
-## Kevin Bryan Austria Galvan
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/hero.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme/hero-light.svg">
+  <img alt="Kevin Austria Galvan — Full-Stack Developer" src="assets/readme/hero.svg" width="100%" />
+</picture>
 
-**Full-Stack Developer** (Software Engineering · DevOps · Data)
-
-*Building real-world software from idea to production.*
-
-<sub>Español nativo · Inglés básico</sub>
+I design and ship full-stack products—clear boundaries, relational data, automated delivery, and operable production environments.
 
 <p align="left">
-  <a href="https://kevinbag2001.github.io/"><img src="https://img.shields.io/badge/Portfolio-kevinbag2001.github.io-0f766e?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/kevin-austria-galvan-605117274"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://gitlab.com/KevinBAG2001"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
+  <a href="https://kevinbag2001.github.io/"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/kevin-austria-galvan-605117274"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://gitlab.com/KevinBAG2001"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"></a>
 </p>
 
-I design and ship full-stack products: clear boundaries, relational data, automated delivery, and operable production environments.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/separator-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme/separator-light.svg">
+  <img src="assets/readme/separator-dark.svg" width="100%" alt="" />
+</picture>
 
----
-
-### Star projects
+### Featured work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-
-**[Abyssan](https://github.com/KevinBAG2001/Abyssan)** · MIT · TypeScript
-
-Self-hosted **visual Git client** you run on your own machine. pnpm monorepo with a React SPA, a TypeScript API, filesystem watching, and Docker Compose for a repeatable local stack.
-
-</td>
+      <a href="https://github.com/KevinBAG2001/Abyssan">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-abyssan.svg">
+          <source media="(prefers-color-scheme: light)" srcset="assets/readme/card-abyssan-light.svg">
+          <img src="assets/readme/card-abyssan.svg" width="100%" alt="Abyssan — self-hosted visual Git client" />
+        </picture>
+      </a>
+    </td>
     <td width="50%" valign="top">
-
-**[Bastion](https://github.com/KevinBAG2001/bastion)** · Apache-2.0 · TypeScript
-
-**Cybersecurity learning platform in Spanish** for beginners: guided lessons, quizzes, XP, levels, and achievements. **Next.js 16**, **Auth.js**, **Prisma**, **PostgreSQL**, **Argon2id**, **2FA (TOTP)**, and **Have I Been Pwned** breach checks.
-
-</td>
+      <a href="https://github.com/KevinBAG2001/bastion">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-bastion.svg">
+          <source media="(prefers-color-scheme: light)" srcset="assets/readme/card-bastion-light.svg">
+          <img src="assets/readme/card-bastion.svg" width="100%" alt="Bastion — cybersecurity learning platform" />
+        </picture>
+      </a>
+    </td>
   </tr>
 </table>
 
----
+Full project index → **[kevinbag2001.github.io](https://kevinbag2001.github.io/)**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/separator-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme/separator-light.svg">
+  <img src="assets/readme/separator-dark.svg" width="100%" alt="" />
+</picture>
 
 ### Professional work
 
@@ -50,20 +62,23 @@ Selected production systems (clients and employers anonymized).
 | **Personnel operations platform** | Daily ops capture, shifts, goals, training, incidents, and PDF productivity outputs | React 19 · TypeScript · Vite · FastAPI · Docker · PostgreSQL 16 |
 | **Training platform** | Course delivery, progress tracking, and certification-style workflows | Laravel 13 · React 19 |
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/separator-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme/separator-light.svg">
+  <img src="assets/readme/separator-dark.svg" width="100%" alt="" />
+</picture>
 
 ### Core stack
 
-| Layer | Tools |
-| --- | --- |
-| **Frontend** | React · TypeScript · Vite · Tailwind CSS |
-| **Backend** | PHP · Laravel · Python · FastAPI · Node.js |
-| **Data** | PostgreSQL · SQL Server · Prisma |
-| **Core** | Git · GitHub · GitLab · CI/CD · **Docker** |
+React · TypeScript · Vite · Tailwind · PHP · Laravel · Python · FastAPI · Node.js · PostgreSQL · SQL Server · Prisma · Git · GitLab · CI/CD · Docker
 
 Also working with .NET/C#, analytics, and applied AI in formal training.
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/separator-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme/separator-light.svg">
+  <img src="assets/readme/separator-dark.svg" width="100%" alt="" />
+</picture>
 
 ### GitHub activity
 
@@ -71,31 +86,30 @@ Also working with .NET/C#, analytics, and applied AI in formal training.
 
 Public metrics from the GitHub API (public repositories only). GitLab activity lives on [my GitLab profile](https://gitlab.com/KevinBAG2001).
 
-| Metric | Count |
-| --- | ---: |
-| Public repositories | **4** |
-| Commits (2026, author) | **141** |
-| Pull requests opened (2026) | **105** |
-| Stars on public repositories | **2** |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme/stats-light.svg">
+  <img alt="GitHub public metrics" src="assets/readme/stats-dark.svg" width="100%" />
+</picture>
 
-<sub>Last updated: 2026-11-22 (UTC) · <a href="https://github.com/KevinBAG2001/KevinBAG2001/actions/workflows/readme-stats.yml">readme-stats workflow</a></sub>
+<sub>Last updated: 2026-11-22 (UTC) · YTD counts for commits & PRs · <a href="https://github.com/KevinBAG2001/KevinBAG2001/actions/workflows/readme-stats.yml">readme-stats workflow</a></sub>
 
 <!-- STATS:END -->
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/separator-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme/separator-light.svg">
+  <img src="assets/readme/separator-dark.svg" width="100%" alt="" />
+</picture>
 
 ### Now
 
-- Master's in **Business Analytics & Intelligence** — in progress  
-- **Microsoft AI Specialization (150 h)** — completed Jan–Jul 2026  
-
----
+- Master's in **Business Analytics & Intelligence** — in progress
+- **Microsoft AI Specialization (150 h)** — completed Jan–Jul 2026
 
 ### Contact
 
 **Email:** [kevinbryan_austria@outlook.com](mailto:kevinbryan_austria@outlook.com)
-
-<img alt="Contribution graph (Pac-Man)" src="https://raw.githubusercontent.com/KevinBAG2001/KevinBAG2001/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%" />
 
 <details>
 <summary><strong>Perfil en español</strong></summary>
@@ -104,7 +118,7 @@ Public metrics from the GitHub API (public repositories only). GitLab activity l
 
 Soy **desarrollador full-stack**: ingeniería de software, DevOps y datos. Construyo productos reales desde la idea hasta producción.
 
-**Proyectos destacados:** [Abyssan](https://github.com/KevinBAG2001/Abyssan) (cliente Git visual autoalojable) y [Bastion](https://github.com/KevinBAG2001/bastion) (ciberseguridad para principiantes, en español).
+**Proyectos destacados:** [Abyssan](https://github.com/KevinBAG2001/Abyssan) (cliente Git visual autoalojable) y [Bastion](https://github.com/KevinBAG2001/bastion) (ciberseguridad para principiantes, en español). Portafolio: [kevinbag2001.github.io](https://kevinbag2001.github.io/).
 
 **Experiencia profesional** (anonimizada en la tabla superior): plataformas de correspondencia/documentos, censo de personal, operación de personal y capacitación.
 
