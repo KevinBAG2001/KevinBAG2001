@@ -9,6 +9,8 @@ const STATS_DARK = path.join(process.cwd(), "assets/readme/stats-dark.svg");
 const STATS_LIGHT = path.join(process.cwd(), "assets/readme/stats-light.svg");
 const START_MARKER = "<!-- STATS:START -->";
 const END_MARKER = "<!-- STATS:END -->";
+const START_MARKER_ES = "<!-- STATS-ES:START -->";
+const END_MARKER_ES = "<!-- STATS-ES:END -->";
 
 async function githubApi(apiPath) {
   const headers = {
@@ -29,12 +31,13 @@ async function githubApi(apiPath) {
 
 function buildStatsSvg({ publicRepos, commitsYtd, pullRequestsYtd, stars }, theme) {
   const dark = theme === "dark";
-  const bg = dark ? "#101010" : "#fcfcfc";
-  const stroke = dark ? "rgba(255,255,255,0.1)" : "rgba(0,0,0,0.08)";
-  const eyebrow = dark ? "#E8E6DC" : "#111411";
-  const num = dark ? "#E8E6DC" : "#111411";
-  const label = dark ? "#9a9a9a" : "#6F6F6F";
-  const rule = dark ? "rgba(255,255,255,0.08)" : "rgba(0,0,0,0.06)";
+  const bg = dark ? "#14151D" : "#ffffff";
+  const stroke = dark ? "rgba(43,89,195,0.22)" : "rgba(30,58,138,0.12)";
+  const eyebrow = dark ? "#94a3b8" : "#475569";
+  const num = dark ? "#f1f5f9" : "#0f172a";
+  const accentNum = "#E23636";
+  const label = dark ? "#94a3b8" : "#475569";
+  const rule = dark ? "rgba(43,89,195,0.18)" : "rgba(30,58,138,0.1)";
   const eyebrowOpacity = dark ? "0.45" : "0.45";
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="896" height="128" viewBox="0 0 896 128" role="img" aria-label="GitHub public metrics">
@@ -47,7 +50,7 @@ function buildStatsSvg({ publicRepos, commitsYtd, pullRequestsYtd, stars }, them
     <text x="352" y="108" fill="${label}" font-size="11" font-weight="500" letter-spacing="0.8">COMMITS</text>
     <text x="544" y="88" fill="${num}" font-size="40" font-weight="300" letter-spacing="-1">${pullRequestsYtd}</text>
     <text x="544" y="108" fill="${label}" font-size="11" font-weight="500" letter-spacing="0.8">PULL REQUESTS</text>
-    <text x="736" y="88" fill="${num}" font-size="40" font-weight="300" letter-spacing="-1">${stars}</text>
+    <text x="736" y="88" fill="${accentNum}" font-size="40" font-weight="300" letter-spacing="-1">${stars}</text>
     <text x="736" y="108" fill="${label}" font-size="11" font-weight="500" letter-spacing="0.8">STARS</text>
   </g>
   <line x1="256" y1="52" x2="256" y2="112" stroke="${rule}"/>
@@ -73,17 +76,23 @@ function formatStatsBlock(updatedAt) {
   ].join("\n");
 }
 
-function replaceStatsSection(readme, statsBlock) {
-  const pattern = new RegExp(
-    `${START_MARKER.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}[\\s\\S]*?${END_MARKER.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}`,
-  );
-
-  if (!pattern.test(readme)) {
-    throw new Error(`README markers ${START_MARKER} / ${END_MARKER} not found.`);
-  }
-
-  return readme.replace(pattern, `${START_MARKER}\n${statsBlock}\n${END_MARKER}`);
+function formatStatsEsBlock(updatedAt) {
+  return [
+    `<sub>Última actualización: ${updatedAt} (UTC) · Conteos del año en curso (commits y PRs) · <a href="https://github.com/${USERNAME}/${USERNAME}/actions/workflows/readme-stats.yml">workflow readme-stats</a></sub>`,
+    "",
+  ].join("\n");
 }
+
+function replaceMarkedSection(readme, start, end, block) {
+  const pattern = new RegExp(
+    `${start.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}[\\s\\S]*?${end.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}`,
+  );
+  if (!pattern.test(readme)) {
+    throw new Error(`README markers ${start} / ${end} not found.`);
+  }
+  return readme.replace(pattern, `${start}\n${block}\n${end}`);
+}
+
 
 async function main() {
   const repos = await githubApi(`/users/${USERNAME}/repos?per_page=100&type=public&sort=updated`);
@@ -109,9 +118,12 @@ async function main() {
 
   const updatedAt = new Date().toISOString().slice(0, 10);
   const statsBlock = formatStatsBlock(updatedAt);
+  const statsEsBlock = formatStatsEsBlock(updatedAt);
 
-  const readme = fs.readFileSync(README_PATH, "utf8");
-  fs.writeFileSync(README_PATH, replaceStatsSection(readme, statsBlock));
+  let readme = fs.readFileSync(README_PATH, "utf8");
+  readme = replaceMarkedSection(readme, START_MARKER, END_MARKER, statsBlock);
+  readme = replaceMarkedSection(readme, START_MARKER_ES, END_MARKER_ES, statsEsBlock);
+  fs.writeFileSync(README_PATH, readme);
 }
 
 main().catch((error) => {

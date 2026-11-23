@@ -6,22 +6,22 @@ Alcance: solo lo que GitHub renderiza (Markdown, HTML limitado, `<img>` con SVG/
 
 ## Concepto
 
-Editorial técnico calmado: superficie cálida sobre negro profundo, acento verde-teal discreto, tipografía sans de peso medio. El hero comunica identidad en un solo panel; las métricas son datos reales en una banda tipográfica; los proyectos destacados son tarjetas enlazables, no muros de badges.
+Editorial técnico sobrio: base grafito tipo noche urbana, acento rojo intenso, azul profundo como soporte y un toque morado puntual (solo color, sin referencias a franquicias). Tipografía sans de peso medio. **Bilingüe parejo:** bloque EN y bloque ES con la misma jerarquía, assets espejo (`hero-es`, tarjetas `-es`) y copy equivalente en español latinoamericano natural.
 
 ## Tokens de color
 
 | Token | Oscuro (GitHub dark) | Claro (GitHub light) | Uso |
 | --- | --- | --- | --- |
-| `bg` | `#0a0a0a` | `#f7f5f0` | Fondo de SVGs (transparente donde el tema de GitHub pinta el canvas) |
-| `fg` | `#E8E6DC` | `#111411` | Titulares y cuerpo |
-| `fg-muted` | `#9a9a9a` | `#6F6F6F` | Subtítulos, etiquetas |
-| `fg-faint` | `rgba(232,230,220,0.45)` | `rgba(17,20,17,0.42)` | Metadata, índices |
-| `accent` | `#0f766e` | `#0d9488` | Una sola línea animada, puntos, énfasis mínimo |
-| `accent-soft` | `rgba(15,118,110,0.35)` | `rgba(13,148,136,0.28)` | Resplandor de la animación |
-| `border` | `rgba(255,255,255,0.12)` | `rgba(0,0,0,0.08)` | Marcos de tarjetas |
-| `card` | `#101010` | `#fcfcfc` | Relleno de tarjetas en SVG |
+| `bg` | `#0B0B10` | `#f8fafc` | Fondo de hero y lienzo oscuro |
+| `card` | `#14151D` | `#ffffff` | Tarjetas y banda de stats |
+| `fg` | `#f1f5f9` | `#0f172a` | Titulares y cuerpo |
+| `fg-muted` | `#94a3b8` | `#475569` | Subtítulos, etiquetas |
+| `accent-primary` | `#E23636` | `#E23636` | Animación (tramo rojo), punto de separador, badge Portfolio |
+| `accent-secondary` | `#2B59C3` | `#1E3A8A` | Reglas, bordes de tarjeta, flechas |
+| `accent-purple` | `#7C3AED` | `#7C3AED` | Un solo detalle en hero (punto 2px) |
+| `border` | `rgba(43,89,195,0.22–0.28)` | `rgba(30,58,138,0.12–0.14)` | Marcos de tarjetas |
 
-Regla: un acento, máximo tres tipos de elemento (línea animada, punto de sección, borde activo en hover implícito del asset).
+Alineado con tokens de `portfolio/css/style.css` y gradientes del README de GitLab en este repo.
 
 ## Tipografía (SVG / Markdown)
 
@@ -78,3 +78,5 @@ Todo lo demás: estático (incl. `stats.svg` regenerado por workflow).
 
 - **R1 (crítica):** rol duplicado bajo el hero; `separator.svg` con `currentColor` ilegible como `<img>`; brillo de la línea algo fuerte en dark.
 - **R2 (corrección):** solo párrafo de valor bajo el hero; separadores dark/light dedicados; etiquetas de stats acortadas (REPOS, COMMITS, …); glow del hero atenuado en `hero.svg`.
+- **R3 (ES):** el bloque `<details>` resumía el perfil; se reemplazó por sección **Perfil en español** espejo (hero, tarjetas, tablas, stats, contacto) con assets `*-es`.
+- **R4 (ES QA):** fechas de stats sincronizadas vía workflow bilingüe; copy LATAM (“llevar a producción”, “en curso”).
