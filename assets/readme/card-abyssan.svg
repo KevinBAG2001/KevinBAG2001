@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="168" viewBox="0 0 420 168" role="img" aria-label="Abyssan — visual Git client">
+  <rect width="420" height="168" rx="24" fill="#101010" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+  <text x="28" y="42" fill="#E8E6DC" opacity="0.45" font-family="system-ui,sans-serif" font-size="10" font-weight="600" letter-spacing="1.8">STAR PROJECT</text>
+  <text x="28" y="78" fill="#E8E6DC" font-family="system-ui,sans-serif" font-size="22" font-weight="500" letter-spacing="-0.4">Abyssan</text>
+  <text x="28" y="102" fill="#9a9a9a" font-family="system-ui,sans-serif" font-size="13">Self-hosted visual Git client · MIT</text>
+  <text x="28" y="126" fill="#9a9a9a" font-family="system-ui,sans-serif" font-size="12" opacity="0.85">pnpm monorepo · React SPA · TypeScript API · Docker</text>
+  <circle cx="384" cy="42" r="14" fill="rgba(15,118,110,0.2)" stroke="rgba(15,118,110,0.5)" stroke-width="1"/>
+  <path d="M378 42h12M390 36l6 6-6 6" stroke="#14b8a6" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
