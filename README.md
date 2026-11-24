@@ -92,7 +92,7 @@ Public metrics from the GitHub API (public repositories only). GitLab activity l
   <img alt="GitHub public metrics" src="assets/readme/stats-dark.svg" width="100%" />
 </picture>
 
-<sub>Last updated: 2026-11-23 (UTC) · YTD counts for commits & PRs · <a href="https://github.com/KevinBAG2001/KevinBAG2001/actions/workflows/readme-stats.yml">readme-stats workflow</a></sub>
+<sub>Last updated: 2026-11-24 (UTC) · YTD counts for commits & PRs · <a href="https://github.com/KevinBAG2001/KevinBAG2001/actions/workflows/readme-stats.yml">readme-stats workflow</a></sub>
 
 <!-- STATS:END -->
 
@@ -212,7 +212,7 @@ Métricas públicas de la API de GitHub (solo repos públicos). La actividad en 
 </picture>
 
 <!-- STATS-ES:START -->
-<sub>Última actualización: 2026-11-23 (UTC) · Conteos del año en curso (commits y PRs) · <a href="https://github.com/KevinBAG2001/KevinBAG2001/actions/workflows/readme-stats.yml">workflow readme-stats</a></sub>
+<sub>Última actualización: 2026-11-24 (UTC) · Conteos del año en curso (commits y PRs) · <a href="https://github.com/KevinBAG2001/KevinBAG2001/actions/workflows/readme-stats.yml">workflow readme-stats</a></sub>
 
 <!-- STATS-ES:END -->
 
